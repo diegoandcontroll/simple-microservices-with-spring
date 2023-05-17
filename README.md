@@ -1,8 +1,5 @@
 # Microservices Simple Project
 
-
-![alt text](diagram.png)
-
 This repo contains a simple project showcasing a microservices-based application, designed to provide a hands-on understanding of microservices architecture and implementation. The project consists of an API Gateway, Config Server, Discovery Server, and two microservices: Student and School.
 
 ## Table of Contents
