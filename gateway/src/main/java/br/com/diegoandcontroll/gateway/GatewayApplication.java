@@ -1,13 +1,13 @@
-package br.com.diegoandcontroll.apigateway;
+package br.com.diegoandcontroll.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
-public class ApigatewayApplication {
+@SpringBootApplication 
+public class GatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApigatewayApplication.class, args);
+		SpringApplication.run(GatewayApplication.class, args);
 	}
 
 }
